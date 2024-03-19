@@ -2,5 +2,6 @@
 #include<stdio.h>
 void main()
 {
-  printf("c program")'
+printf("c program")'
+getch();
 }
